@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "News18"
+            },
+            "author": "News Desk",
+            "title": "PM Modi 72nd Birthday LIVE: PM to Launch National Logistics Policy Shortly - News18",
+            "description": "PM Narendra Modi Birthday Celebration LIVE: PM Modi will shortly release the 8 cheetahs from Namibia, into Kuno National park and will attend a program of Self Help Groups in Sheopur",
+            "url": "https://www.news18.com/news/india/prime-minister-narendra-modi-birthday-live-updates-today-bjp-to-celebration-photos-video-wishes-latest-news-livenews-5974267.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2022/09/pm-modi1234122-166341643516x9.jpg",
+            "publishedAt": "2022-09-17T12:24:53Z",
+            "content": "environment and wildlife conservation. Modi was speaking after releasing cheetahs flown in from Namibia into special enclosures in Kuno National Park in Madhya Pradesh. Modi, who turned 72 on Saturda… [+8096 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "NASA's rover spots surprising sun halo on Mars for the first time, scientists stunned - Republic World",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMikAFodHRwczovL3d3dy5yZXB1YmxpY3dvcmxkLmNvbS9zY2llbmNlL3NwYWNlL25hc2FzLXJvdmVyLXNwb3RzLXN1cnByaXNpbmctc3VuLWhhbG8tb24tbWFycy1mb3ItdGhlLWZpcnN0LXRpbWUtc2NpZW50aXN0cy1zdHVubmVkLWFydGljbGVzaG93Lmh0bWzSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-09-17T11:59:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Swati Bhasin",
+            "title": "‘GNA, take note’: Jairam Ramesh to Ghulam Nabi Azad after Congress’s Ladakh win - Hindustan Times",
+            "description": "Following the Congress's electoral win in Ladakh, Jairam Ramesh tweeted a message for Ghulam Nabi Azad and the BJP.  | Latest News India",
+            "url": "https://www.hindustantimes.com/india-news/gna-take-note-jairam-ramesh-to-ghulam-nabi-azad-after-congress-s-ladakh-win-101663415418607.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/09/17/1600x900/PTI09-13-2022-000109A-0_1663295587795_1663295587795_1663415540064_1663415540064.jpg",
+            "publishedAt": "2022-09-17T11:52:50Z",
+            "content": "Congress spokesperson Jairam Ramesh took a swipe at Ghulam Nabi Azad on Saturday, weeks after the former union ministers acrimonious exit from the party had brought the focus back on internal crisis … [+1355 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cgtn.com"
+            },
+            "author": "",
+            "title": "Science Saturday: Lunar exploration, satellite connectivity and more - CGTN",
+            "description": "In this week's Science Saturday, we look at science news ranging from Lunar exploration to satellite connectivity.",
+            "url": "https://news.cgtn.com/news/2022-09-17/Science-Saturday-Lunar-exploration-satellite-connectivity-and-more-1dp1giLEnE4/index.html",
+            "urlToImage": "https://video.cgtn.com/news/2022-09-17/Science-Saturday-Lunar-exploration-satellite-connectivity-and-more-1dp1giLEnE4/video/6e4e660f03b24436b2e79e7c47249364/6e4e660f03b24436b2e79e7c47249364-1280.png",
+            "publishedAt": "2022-09-17T11:05:10Z",
+            "content": "In this week's Science Saturday, we look at science news ranging from Lunar exploration to satellite connectivity. \r\nLunar exploration \r\nLunar soil samples gathered by China's probe have been found t… [+1964 chars]"
+        }
+    ]
+}

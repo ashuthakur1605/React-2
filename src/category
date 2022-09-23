@@ -1,0 +1,8 @@
+<Route path="/business"><News country='in' pageSize={7} category=business/></Route>
+<Route path="/business"><News country='in' pageSize={7} category=entertainment/></Route>
+<Route path="/business"><News country='in' pageSize={7} category=general/></Route>
+<Route path="/business"><News country='in' pageSize={7} category=health/></Route>
+<Route path="/business"><News country='in' pageSize={7} category=science/></Route>
+<Route path="/business"><News country='in' pageSize={7} category=sports/></Route>
+<Route path="/business"><News country='in' pageSize={7} category=technology/></Route>
+<Route path="/business"><News country='in' pageSize={7} category='Entertainment'/></Route>
